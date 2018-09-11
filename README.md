@@ -1,4 +1,4 @@
-This is a beginner tutorial of Travis CI for Node projects.
+This is a beginner tutorial of Travis CI for Node projects. ![travis-ci-result](https://travis-ci.org/26huitailang/travis-ci-demo.svg?branch=master)
 
 ## How to use
 
